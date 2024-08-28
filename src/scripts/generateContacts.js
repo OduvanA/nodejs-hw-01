@@ -1,3 +1,4 @@
+// import { PATH_DB } from '../constants/contacts.js';
 import { createFakeContact } from '../utils/createFakeContact.js';
 import { getAllContacts } from './getAllContacts.js';
 import { updateContacts } from '../utils/updateContacts.js';
